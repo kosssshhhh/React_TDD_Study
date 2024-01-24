@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<PageHeader /> renders component correctly 1`] = `undefined`;
+
+exports[`<PageHeader /> rendes component correctly with /add URL 1`] = `undefined`;
